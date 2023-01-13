@@ -1,2 +1,2 @@
 # yolo8
-work with yolov8 for my work
+work with yolov8: training network
